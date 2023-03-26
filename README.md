@@ -9,7 +9,7 @@ Cara Menjalankan Aplikasi
 
 ## Untuk menjalankan aplikasi ini di komputer lokal Anda, pastikan Node.js, PostgreSQL, dan Git sudah terinstal. Kemudian, ikuti langkah-langkah di bawah ini:
 
-1. Clone repositori ini dengan perintah git clone https://github.com/SodikulPadli/car-management-dashboard.git.
+1. Clone repositori ini dengan perintah git clone https://github.com/SodikulPadli/car-management-dahboard.git.
 2. Masuk ke direktori repositori dengan perintah cd car-management-dashboard.
 3. Jalankan perintah npm install untuk menginstal semua dependensi.
 4. Buat database PostgreSQL baru dengan nama "carsRental".
